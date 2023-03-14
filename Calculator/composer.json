@@ -1,0 +1,13 @@
+{
+    "name": "day-31/day-31",
+    "description": "A oop php project",
+    "type": "project",
+    "keywords": [],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app//"
+        }
+    },
+    "require": {},
+    "require-dev": {}
+}
